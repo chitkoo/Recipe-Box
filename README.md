@@ -70,7 +70,7 @@ React Native, Redux, React, React Navigation v6, MMKV Storage, Cryptojs, JavaScr
 
 ## Screenshots
 
-![App Screenshot](assets/screenshots/login.png | width=100)
+![App Screenshot](assets/screenshots/login.png)
 ![App Screenshot](assets/screenshots/reg.png)
 ![App Screenshot](assets/screenshots/home.png)
 ![App Screenshot](assets/screenshots/cuisine.png)
