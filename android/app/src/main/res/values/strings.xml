@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipe Box</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">E8mmCElz7ZRqizI_irQlnB9Sbbe7SyENktJlE</string>
+</resources>

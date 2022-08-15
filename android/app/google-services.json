@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505999614168",
+    "project_id": "recipebox-react-native",
+    "storage_bucket": "recipebox-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505999614168:android:a4f91ed281a153b4f977ad",
+        "android_client_info": {
+          "package_name": "com.chitko.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505999614168-c9gi5jnphk4jb4r40fm3j6j2s56tjbdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeQx4s4lD0IDK2tfFKOb-NhkK46n2Wa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505999614168-c9gi5jnphk4jb4r40fm3j6j2s56tjbdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
