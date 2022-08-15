@@ -70,13 +70,30 @@ React Native, Redux, React, React Navigation v6, MMKV Storage, Cryptojs, JavaScr
 
 ## Screenshots
 
-
+<p float="left">
+<img src="assets/screenshots/login.png" width="180" height="380" />
+<img src="assets/screenshots/reg.png" width="180" height="380" />
+<img src="assets/screenshots/home.png" width="180" height="380" />
+<img src="assets/screenshots/cuisine.png" width="180" height="380" />
+</p>
 
 <p float="left">
-<img src="assets/screenshots/reg.png" width="180" height="380" />
-<img src="assets/screenshots/reg.png" width="180" height="380" />
-<img src="assets/screenshots/reg.png" width="180" height="380" />
-<img src="assets/screenshots/reg.png" width="180" height="380" />
+<img src="assets/screenshots/cuisineRecipe.png" width="180" height="380" />
+<img src="assets/screenshots/detail.png" width="180" height="380" />
+<img src="assets/screenshots/emptySearch.png" width="180" height="380" />
+<img src="assets/screenshots/saveItem.png" width="180" height="380" />
+</p>
+
+<p float="left">
+<img src="assets/screenshots/saveDetail.png" width="180" height="380" />
+<img src="assets/screenshots/profile.png" width="180" height="380" />
+<img src="assets/screenshots/create.png" width="180" height="380" />
+<img src="assets/screenshots/lang.png" width="180" height="380" />
+</p>
+
+<p float="left">
+<img src="assets/screenshots/version.png" width="180" height="380" />
+<img src="assets/screenshots/ver.png" width="180" height="380" />
 </p>
 
 
