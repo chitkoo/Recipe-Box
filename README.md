@@ -71,20 +71,18 @@ React Native, Redux, React, React Navigation v6, MMKV Storage, Cryptojs, JavaScr
 ## Screenshots
 
 
-![App Screenshot]<img src="assets/screenshots/login.png" width="50" height="50">
-![App Screenshot](assets/screenshots/reg.png)
-![App Screenshot](assets/screenshots/home.png)
-![App Screenshot](assets/screenshots/cuisine.png)
-![App Screenshot](assets/screenshots/cuisineRecipe.png)
-![App Screenshot](assets/screenshots/detail.png)
-![App Screenshot](assets/screenshots/emptySearch.png)
-![App Screenshot](assets/screenshots/saveItem.png)
-![App Screenshot](assets/screenshots/saveDetail.png)
-![App Screenshot](assets/screenshots/profile.png)
-![App Screenshot](assets/screenshots/create.png)
-![App Screenshot](assets/screenshots/lang.png)
-![App Screenshot](assets/screenshots/version.png)
-![App Screenshot](assets/screenshots/ver.png)
+
+<p float="left">
+<img src="assets/screenshots/reg.png" width="180" height="380" />
+<img src="assets/screenshots/reg.png" width="180" height="380" />
+<img src="assets/screenshots/reg.png" width="180" height="380" />
+<img src="assets/screenshots/reg.png" width="180" height="380" />
+</p>
+
+
+
+
+
 ## Tech Stack
 
 **Client:** React Native, @reduxjs/toolkit, @shopify/flash-list, @react-navigation, redux-persist, react-native-reanimated and others . . . 
