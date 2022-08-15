@@ -27,6 +27,7 @@ To deploy this project run
 
 ## Features
 
+- App Center (Code Push) for update version
 - Redux states are persisted!
 - Save/unsave your favourite recipes
 - Search recipes
